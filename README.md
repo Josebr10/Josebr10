@@ -21,7 +21,7 @@ Construindo SaaS, IA e automações 🚀
 ## 🎨 Front-End
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ---
@@ -29,7 +29,7 @@ Construindo SaaS, IA e automações 🚀
 ## ⚙️ Back-End
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,firebase" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ---
@@ -37,7 +37,7 @@ Construindo SaaS, IA e automações 🚀
 ## 🛠️ Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma" />
 </p>
 
 ---
@@ -45,7 +45,7 @@ Construindo SaaS, IA e automações 🚀
 ## 📚 Aprendendo
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws,python" />
+  <img src="https://skillicons.dev/icons?i=docker,javascript,python" />
 </p>
 
 ---
@@ -58,11 +58,6 @@ Sistema financeiro com IA focado em controle financeiro moderno.
 
 ---
 
-## 🎥 Vireon
-
-SaaS de criação de vídeos virais com IA.
-
----
 
 # 📊 GitHub Stats
 
@@ -83,7 +78,7 @@ SaaS de criação de vídeos virais com IA.
 # 🌎 Redes sociais
 
 <p align="left">
-<a href="SEU_LINK">
+<a href="[SEU_LINK](https://www.instagram.com/_zeuel/)">
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
